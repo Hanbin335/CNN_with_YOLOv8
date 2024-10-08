@@ -40,13 +40,12 @@ CNN을 활용해 강아지 감정을 분류하고, YOLOv8을 활용해 강아지
 
 ● Numpy : 배열 및 행렬 연산을 수행하며, 이미지 데이터를 넘파이 배열 형태로 변환하는 데 사용
 
-프로젝트 전체 과정
-----
-![image](https://github.com/user-attachments/assets/c368d22a-a185-4282-94c0-b4571a542316)
-
-
 ● Scikit-learn : 학습 데이터와 검증 데이터를 분리하는 데 사용 (train_test_split 함수)
 
 ● Matplotlib : 학습 과정에서의 정확도 및 손실 그래프 시각화
 
 ● YOLOv8 : 실시간 객체 탐지를 위한 모델로, 개를 감지하고 감정 분석을 수행하는 데 사용
+
+프로젝트 전체 과정
+----
+![image](https://github.com/user-attachments/assets/c368d22a-a185-4282-94c0-b4571a542316)
